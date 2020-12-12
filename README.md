@@ -9,3 +9,5 @@ In software, it is three times faster than AES, and is well suited to lower-powe
 
 Thus AES isn’t the only show in town.<br>
 A large scale vulnerability on AES would cause much of the secure Internet to be exposed, thus it calls for an alternative.<br>
+
+Project Report: https://bit.ly/ProjectReportsOfTanishqWadhwani
